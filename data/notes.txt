@@ -1,0 +1,12 @@
+Database Normalization is the process of organizing data in a database to reduce redundancy and improve data integrity.
+The first normal form (1NF) requires that each column contains atomic values and each record is unique.
+Second normal form (2NF) ensures that all non-key attributes are fully functional dependent on the primary key.
+Third normal form (3NF) requires that there are no transitive dependencies.
+Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water.
+Photosynthesis in plants generally involves the green pigment chlorophyll and generates oxygen as a byproduct.
+The light-dependent reactions take place in the thylakoid membranes of the chloroplast.
+The Calvin cycle (light-independent reactions) takes place in the stroma.
+Machine Learning is a field of artificial intelligence that uses statistical techniques to give computer systems the ability to "learn" from data.
+Supervised learning involves training a model on a labeled dataset.
+Unsupervised learning involves finding hidden patterns or intrinsic structures in input data.
+Reinforcement learning is about taking suitable action to maximize reward in a particular situation.
