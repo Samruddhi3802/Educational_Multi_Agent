@@ -4,12 +4,6 @@ An intelligent educational assistant powered by **multi-agent AI** and **Retriev
 
 ---
 
-## Live Demo
-
-**Live Link:** _Coming soon — will be updated after deployment_
-
----
-
 ## What It Does
 
 Ask any academic question and a team of specialized AI agents handles it:
